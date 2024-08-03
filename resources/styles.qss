@@ -1,0 +1,26 @@
+#MainContainer {
+    background-color: #201E43;
+}
+QLabel {
+    color: #eeeeee;
+    padding: 5px;
+    font-size: 22px;
+}
+#title {
+    font-size: 40px;
+    padding: 5px;
+}
+QPushButton {
+    background-color: #508C9B;
+    color: #ffffff;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 10px;
+}
+QHboxLayout {
+    margin-bottom: 20px;
+}
+QSpinBox, QDoubleSpinBox {
+    font-size: 26px;
+    font-weight: 500;
+}
